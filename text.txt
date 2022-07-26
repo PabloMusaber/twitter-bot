@@ -1,0 +1,10 @@
+"Este es un ejemplo de tuit 1: Árbol",
+"Este es un ejemplo de tuit 2: Manzana",
+"Este es un ejemplo de tuit 3: Naranja",
+"Este es un ejemplo de tuit 4: Verde",
+"Este es un ejemplo de tuit 5: Cereza",
+"Este es un ejemplo de tuit 6: Rojo",
+"Este es un ejemplo de tuit 7: Amarillo",
+"Este es un ejemplo de tuit 8: Azul",
+"Este es un ejemplo de tuit 9: Twitter",
+"Este es un ejemplo de tuit 10: Bot"
