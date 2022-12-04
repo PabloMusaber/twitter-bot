@@ -76,7 +76,7 @@ def post():
             print("===== Tweet posteado correctamente ===== \n")
         except tweepy.TweepError as e:
             print("Error: " + str(e))
-        time.sleep(43200) #12 horas // Periodo de publicación de las imágenes
+        time.sleep(43200) #12 horas
 
 def post_imagen():
     while True:
